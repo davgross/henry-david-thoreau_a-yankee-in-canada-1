@@ -2,6 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 .inscription{
-        font-variant: small-caps;
-        text-align: center;
+	font-variant: small-caps;
+	text-align: center;
+}
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
 }
