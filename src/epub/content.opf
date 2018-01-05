@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-david-thoreau/a-yankee-in-canada</dc:identifier>
-		<dc:date>2017-10-28T21:52:15Z</dc:date>
-		<meta property="dcterms:modified">2018-01-04T20:13:05Z</meta>
-		<meta property="se:revision-number">2</meta>
+		<dc:date>2018-01-05T18:15:32Z</dc:date>
+		<meta property="dcterms:modified">2018-01-05T18:15:32Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,16 +36,10 @@
 		<dc:description id="description">Thoreau describes his visit to Quebec in 1850.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-	
-		&lt;p&gt;
-			In the fall of 1850, Henry David Thoreau briefly visited Quebec with Ellery Channing. In this book, Thoreau describes the cities and homes, people and customs, and rivers and plants of that part of Canada.
-		&lt;/p&gt;&lt;p&gt;
-			He describes what he sees as anachronistically servile, crown-loving traditions in Canada—and how these have stunted the imaginations and lives of the residents—and he contrasts these with the more independent, revolutionary Yankee heritage of his home country.
-		&lt;/p&gt;&lt;p&gt;
-			He also turns his characteristically keen eye on the artifacts and natural phenomena around him, from the stone walls of Quebec’s Old City battlements to the rivers and cascades of the surrounding countryside.
-		&lt;/p&gt;&lt;p&gt;
-			Parts of this book were originally published in Putnam’s Magazine as “An Excursion to Canada.”
-		&lt;/p&gt;
+			&lt;p&gt;In the fall of 1850, Henry David Thoreau briefly visited Quebec with Ellery Channing. In this book, Thoreau describes the cities and homes, people and customs, and rivers and plants of that part of Canada.&lt;/p&gt;
+			&lt;p&gt;He describes what he sees as anachronistically servile, crown-loving traditions in Canada—and how these have stunted the imaginations and lives of the residents—and he contrasts these with the more independent, revolutionary Yankee heritage of his home country.&lt;/p&gt;
+			&lt;p&gt;He also turns his characteristically keen eye on the artifacts and natural phenomena around him, from the stone walls of Quebec’s Old City battlements to the rivers and cascades of the surrounding countryside.&lt;/p&gt;
+			&lt;p&gt;Parts of this book were originally published in Putnam’s Magazine as “An Excursion to Canada.”&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -57,10 +51,10 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-david-thoreau_a-yankee-in-canada</meta>
 		<dc:creator id="author">Henry David Thoreau</dc:creator>
 		<meta property="file-as" refines="#author">Thoreau, Henry David</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_David_Thoreau</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095600</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Tom Thomson</dc:contributor>
 		<meta property="file-as" refines="#artist">Thomson, Tom</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Tom_Thomson</meta>
@@ -79,6 +73,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
