@@ -12,4 +12,5 @@ span[epub|type~="subtitle"]{
 }
 
 abbr.name{
+	white-space: nowrap;
 }
