@@ -36,7 +36,15 @@
 		<dc:description id="description">Thoreau describes his visit to Quebec in 1850.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			In the fall of 1850, Henry David Thoreau briefly visited Quebec. In this book, he describes the cities and homes, people and customs, and rivers and plants of that part of Canada. Parts of this book were originally published in Putnam’s Magazine as “An Excursion to Canada.”
+                &lt;p&gt;
+			In the fall of 1850, Henry David Thoreau briefly visited Quebec with Ellery Channing. In this book, Thoreau describes the cities and homes, people and customs, and rivers and plants of that part of Canada.
+                &lt;/p&gt;&lt;p&gt;
+                        He describes what he sees as anachronistically servile, crown-loving traditions in Canada—and how these have stunted the imaginations and lives of the residents—and he contrasts these with the more independent, revolutionary Yankee heritage of his home country.
+                &lt;/p&gt;&lt;p&gt;
+                        He also turns his characteristically keen eye on the artifacts and natural phenomena around him, from the stone walls of Quebec’s Old City battlements to the rivers and cascades of the surrounding countryside.
+                &lt;/p&gt;&lt;p&gt;
+                        Parts of this book were originally published in Putnam’s Magazine as “An Excursion to Canada.”
+                &lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
