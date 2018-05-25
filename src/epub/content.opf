@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-david-thoreau/a-yankee-in-canada</dc:identifier>
 		<dc:date>2018-01-05T18:15:32Z</dc:date>
-		<meta property="dcterms:modified">2018-05-09T21:28:31Z</meta>
-		<meta property="se:revision-number">9</meta>
+		<meta property="dcterms:modified">2018-05-25T22:28:04Z</meta>
+		<meta property="se:revision-number">10</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,7 +56,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/yankeeincanadawi00thor</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)_Thoreau</dc:source>
-		<meta property="se:word-count">28337</meta>
+		<meta property="se:word-count">28339</meta>
 		<meta property="se:reading-ease.flesch">61.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Yankee_in_Canada</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-david-thoreau_a-yankee-in-canada</meta>
