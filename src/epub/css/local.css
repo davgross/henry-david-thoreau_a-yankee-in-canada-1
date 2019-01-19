@@ -6,7 +6,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.inscription{
+#chapter-4 blockquote{
 	font-variant: small-caps;
 	text-align: center;
 }
