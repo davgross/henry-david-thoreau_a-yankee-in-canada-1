@@ -29,12 +29,12 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">A Yankee in Canada</dc:title>
 		<meta property="file-as" refines="#title">Yankee in Canada, A</meta>
-		<dc:subject id="subject-1">Thoreau, Henry David, 1817-1862--Travel--Québec (Province)</dc:subject>
-		<dc:subject id="subject-2">Americans--Travel--Québec (Province)--History--19th century.</dc:subject>
-		<dc:subject id="subject-3">Québec (Province)--Description and travel.</dc:subject>
-		<dc:subject id="subject-4">Québec (Province)--Social life and customs--19th century.</dc:subject>
-		<dc:subject id="subject-5">Québec (Québec)--Description and travel.</dc:subject>
-		<dc:subject id="subject-6">Montréal (Québec)--Description and travel.</dc:subject>
+		<dc:subject id="subject-1">Thoreau, Henry David, 1817-1862--Travel--Québec (Province)</dc:subject>
+		<dc:subject id="subject-2">Americans--Travel--Québec (Province)--History--19th century.</dc:subject>
+		<dc:subject id="subject-3">Québec (Province)--Description and travel.</dc:subject>
+		<dc:subject id="subject-4">Québec (Province)--Social life and customs--19th century.</dc:subject>
+		<dc:subject id="subject-5">Québec (Québec)--Description and travel.</dc:subject>
+		<dc:subject id="subject-6">Montréal (Québec)--Description and travel.</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/2015024272</meta>
 		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/2015024272</meta>
 		<meta property="meta-auth" refines="#subject-3">https://lccn.loc.gov/2015024272</meta>
