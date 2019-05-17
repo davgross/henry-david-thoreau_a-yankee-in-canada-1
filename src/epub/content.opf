@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">A Yankee in Canada</dc:title>
 		<meta property="file-as" refines="#title">Yankee in Canada, A</meta>
 		<dc:subject id="subject-1">Thoreau, Henry David, 1817-1862--Travel--Québec (Province)</dc:subject>
@@ -35,23 +35,27 @@
 		<dc:subject id="subject-4">Québec (Province)--Social life and customs--19th century.</dc:subject>
 		<dc:subject id="subject-5">Québec (Québec)--Description and travel.</dc:subject>
 		<dc:subject id="subject-6">Montréal (Québec)--Description and travel.</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/2015024272</meta>
-		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/2015024272</meta>
-		<meta property="meta-auth" refines="#subject-3">https://lccn.loc.gov/2015024272</meta>
-		<meta property="meta-auth" refines="#subject-4">https://lccn.loc.gov/2015024272</meta>
-		<meta property="meta-auth" refines="#subject-5">https://lccn.loc.gov/2015024272</meta>
-		<meta property="meta-auth" refines="#subject-6">https://lccn.loc.gov/2015024272</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">Thoreau describes his visit to Quebec in 1850.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In the fall of 1850, Henry David Thoreau briefly visited Quebec with Ellery Channing. In this book, Thoreau describes the cities and homes, people and customs, and rivers and plants of that part of Canada.&lt;/p&gt;
 			&lt;p&gt;He describes what he sees as anachronistically servile, crown-loving traditions in Canada—and how these have stunted the imaginations and lives of the residents—and he contrasts these with the more independent, revolutionary Yankee heritage of his home country.&lt;/p&gt;
 			&lt;p&gt;He also turns his characteristically keen eye on the artifacts and natural phenomena around him, from the stone walls of Quebec’s Old City battlements to the rivers and cascades of the surrounding countryside.&lt;/p&gt;
 			&lt;p&gt;Parts of this book were originally published in Putnam’s Magazine as “An Excursion to Canada.”&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/yankeeincanadawi00thor</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)_Thoreau</dc:source>
