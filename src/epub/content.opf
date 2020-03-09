@@ -59,8 +59,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/yankeeincanadawi00thor</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)_Thoreau</dc:source>
-		<meta property="se:word-count">28337</meta>
-		<meta property="se:reading-ease.flesch">61.4</meta>
+		<meta property="se:word-count">28340</meta>
+		<meta property="se:reading-ease.flesch">61.29</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Yankee_in_Canada</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-david-thoreau_a-yankee-in-canada</meta>
 		<dc:creator id="author">Henry David Thoreau</dc:creator>
